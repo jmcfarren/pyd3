@@ -8,7 +8,7 @@ import discogs_client
 
 NAME = 'pyd3'
 VERSION = '0.1'
-URL = 'https://github.com/joshuamcfarren/pyd3.git'
+URL = 'https://github.com/jmcfarren/pyd3.git'
 
 def main(argv):
 	try:

@@ -2,7 +2,7 @@
 
 Python ID3 Updater: Uses Discogs API to update meta-data in your music library
 
-* [GitHub](https://github.com/joshuamcfarren/pyd3.git)
+* [GitHub](https://github.com/jmcfarren/pyd3.git)
 * [Discogs API](https://www.discogs.com/developers/)
 
 ## Requirements
