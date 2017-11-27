@@ -29,7 +29,7 @@ def main(argv):
 			label = release.labels[0]
 			artist = release.artists[0]
 			catno = release.data['labels'][0]['catno']
-			print('Request: {} {} {} {!r}'.format(user_agent, user_token, qtype, query))
+			#print('Request: {} {} {} {!r}'.format(user_agent, user_token, qtype, query))
 			print('Release: {}'.format(release.title))
 			print('Artist:  {}'.format(artist.name))
 			print('Label:   {}'.format(label.name))
